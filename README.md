@@ -9,7 +9,7 @@
 
 ## ⚡What Am I Up To?⚡
 
-~ 🎨 I’m currently working on an accessible information hub for first-time and teen parents. This hub will include links to sliding scale fee and free classes, tips for parenting practices in relation to a child's stage in development, a breakdown of therapy options with emphasis on rape and post-partum depression, and clinics that offer safe, discreet termination services. This is merely the tip of the iceberg, so stay tuned!
+~ 🎨 I’m currently working on an accessible information hub for first-time and teen parents. This hub will include links to sliding scale fee and free classes, tips for parenting practices in relation to a child's stage in development, a breakdown of therapy options with emphasis on rape and postpartum depression, and clinics that offer safe, discreet termination services. This is merely the tip of the iceberg, so stay tuned!
 
 ~ 🌱 I’m currently learning Python to add to my HTML, CSS, and basic JavaScript, jQuery, and Node.js skills!
 
