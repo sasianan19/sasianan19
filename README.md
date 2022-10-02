@@ -6,8 +6,6 @@
 
 🇰🇷 When I'm not slouched over a keyboard, you can find me engrossed in a book or speed-walking like a Korean grandma getting her steps in at the mall (my Halmoni used to take me mall-walking with her)! 
 
-
-
 ~ 📫 How to reach me: Email- sasianan19@gmail.com 
 
 ~ 🌎 Fun fact: During WWI and WWII, code talkers were courageous groups of indigenous armed service members whose sacred languages aided in the development of communications in front-line operations. For a list of tribes involved, here is a helpful link: https://www.archives.gov/research/native-americans/military/code-talkers.html 
