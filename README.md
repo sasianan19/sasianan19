@@ -1,11 +1,20 @@
 <img src="peony.gif" width="100%" height="450px">
 
-## ✨Howdy✨ 
+## Howdy! <img src="corgiyolk.gif" height="50px" width="50px"> 
 
-🏔️ Hi! My name is Sierra and I am passionate about utilizing the world of tech to empower underserved and disenfranchised youth. In 2016, a group of 6 peers and I founded the non-profit resource Black Youth in Denver (BYD). After dismissing myself from the board in late 2017, I felt it would be best to think of ways to provide more concrete assistance to young people who were either on the brink of falling victim to the preschool-to-prison pipeline or those who had already found themselves pulled in. I know in my heart that there is an abundance of entrepreneurial-minded youngins in every cut who would surely benefit from a chance or five to put their keen intellect to use for a stable and healthier future!
+- 🌄 Name: Sierra
 
-⛩️ When I'm not slouched over a keyboard, you can find me engrossed in a book or speed-walking like a Korean grandma getting her steps in at the mall (my Halmoni used to take me mall-walking with her)! 
+- 🎀 Pronouns: She/They
 
-~ 📫 How to reach me: Email- sasianan19@gmail.com 
+- 📖 About Me: I am a software developer who is passionate about utilizing the world of tech to empower underserved and disenfranchised youth. I know in my heart that there is an abundance of entrepreneurial-minded youngins in every cut who would surely benefit from a chance or five to put their keen intellects to use for a stabler ***and*** healthier future! 
 
-~ 🌎 Fun fact: During WWI and WWII, code talkers were courageous groups of indigenous armed service members whose sacred languages aided in the development of communications in front-line operations. For a list of tribes involved, here is a helpful link: https://www.archives.gov/research/native-americans/military/code-talkers.html 
+- 🫀 I Love: PEONIES!!! 
+
+- 🌎 Fun Fact: During WWI and WWII, code talkers were courageous groups of indigenous armed service members whose sacred languages aided in the development of communications in front-line operations. For a list of tribes involved, here is a helpful link: https://www.archives.gov/research/native-americans/military/code-talkers.html 
+
+## 📊 GitHub Stats:
+[![Sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasianan19&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasianan19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⌨️ Languages & Frameworks:
