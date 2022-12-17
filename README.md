@@ -1,4 +1,4 @@
-![](<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/vSqGLwLyD1gWKWSUsZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/name-peony-vSqGLwLyD1gWKWSUsZ">via GIPHY</a></p>)
+<img src="peony.gif">
 ## ✨About Me✨ 
 
 🏔️ Hi! My name is Sierra and I am passionate about utilizing the world of tech to empower underserved and disenfranchised youth. In 2016, a group of 6 peers and I founded the non-profit resource Black Youth in Denver (BYD). After dismissing myself from the board in late 2017, I felt it would be best to think of ways to provide more concrete assistance to young people who were either on the brink of falling victim to the preschool-to-prison pipeline or those who had already found themselves pulled in. I know in my heart that there is an abundance of entrepreneurial-minded youngins in every cut who would surely benefit from a chance or five to put their keen intellect to use for a stable and healthier future!
