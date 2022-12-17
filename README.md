@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/sasianan19/sasianan19/master/peony.gif)
+<img src="peony.gif" width="auto">
 
 ## ✨About Me✨ 
 
