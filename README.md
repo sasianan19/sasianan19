@@ -1,4 +1,4 @@
-<img src="peony.gif" width="100%" height="100px">
+<img src="peony.gif" width="100%" height="500px">
 
 ## ✨About Me✨ 
 
