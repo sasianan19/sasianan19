@@ -1,6 +1,6 @@
 <img src="peony.gif" width="100%" height="450px">
 
-## Howdy! <img src="corgiyolk.gif" height="50px" width="50px"> 
+# Howdy! <img src="sailormars.gif" height="100px" width="150px"> 
 
 - 🌄 Name: Sierra
 
