@@ -13,42 +13,31 @@
 - 🌎 Fun Fact: During WWI and WWII, code talkers were courageous groups of indigenous armed service members whose sacred languages aided in the development of communications in front-line operations. For a list of tribes involved, here is a helpful link: https://www.archives.gov/research/native-americans/military/code-talkers.html 
 
 ## 📊 GitHub Stats:
-[![Sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasianan19&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasianan19&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasianan19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⌨️ Languages | Frameworks | Libraries:
-<div>
-    <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px"/>
-        <img src="https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=white&style=plastic">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" height="50px"/>      
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="50px"/>
-    </p>
-</div>
+
+![HTML5](https://img.shields.io/badge/-HTML5-#E34F26?logo=html5&logoColor=white&style=plastic)
+![CSS3](https://img.shields.io/badge/-CSS3-#1572B6?logo=css3&logoColor=white&style=plastic)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![Python](https://img.shields.io/badge/-Python-#3776AB?logo=python&logoColor=white&style=plastic)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-#7952B3?logo=bootstrap&logoColor=white&style=plastic)
+![Django](https://img.shields.io/badge/-Django-#092E20?logo=django&logoColor=white&style=plastic)
+![Jasmine](https://img.shields.io/badge/-Jasmine-#8A4182?logo=jasmine&logoColor=white&style=plastic)
+![jQuery](https://img.shields.io/badge/-jQuery-#0769AD?logo=jquery&logoColor=white&style=plastic)
           
 ## 🧰 Tools:
-<div background-color="white">
-    <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="50px"/>    
-    </p>
-</div>             
-
+![Git](https://img.shields.io/badge/-Git-#F05032?logo=git&logoColor=white&style=plastic)
+![GitHub](https://img.shields.io/badge/-GitHub-#181717?logo=github&logoColor=white&style=plastic)
+![Node.js](https://img.shields.io/badge/-Node.js-#339933?logo=node-dot-js&logoColor=white&style=plastic)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-#007ACC?logo=visualstudiocode&logoColor=white&style=plastic)  
+         
 ## 📓 Relational Databases:
-<div>
-    <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="50px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"/>
-    </p>
-</div>         
+![SQLite](https://img.shields.io/badge/-SQLite-#003B57?logo=sqlite&logoColor=white&style=plastic)
+![MySQL](https://img.shields.io/badge/-MySQL-#4479A1?logo=mysql&logoColor=white&style=plastic)
+       
           
           
                 
