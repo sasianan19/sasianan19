@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasianan19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Fortune For the Road:
-![Fortune Cookie](https://digital-fortune-cookies-api.herokuapp.com/)
+![Fortune Cookie](https://quotesondesign.com/wp-json/wp/v2/posts/?orderby=rand)
 
 ## ⌨️ Languages | Frameworks | Libraries:
 
